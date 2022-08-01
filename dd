@@ -1,0 +1,5 @@
+#!/bin/bash
+
+ee=$(pwd)
+echo $ee
+mkdir "dirnam"
