@@ -3,3 +3,5 @@
 ee=$(pwd)
 echo $ee
 mkdir "dirnam"
+ww=$(uname)
+echo "$ww"
